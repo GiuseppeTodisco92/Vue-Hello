@@ -1,8 +1,8 @@
 const app = new Vue({
-
     el: '#app',
     data :{
         message : 'Hello World',
+        image:  'https://www.akamai.com/site/im-demo/perceptual-standard.jpg?imbypass=true',
     },
 })
 
